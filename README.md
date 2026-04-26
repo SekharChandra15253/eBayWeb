@@ -19,5 +19,5 @@ Automated the scenario of searching for a product on eBay and adding it to the c
 * Page Object Model (POM) design
 * BDD using Cucumber
 * Thread-safe WebDriver (ThreadLocal)
-* Explicit waits for stability.
+* Explicit waits for stability
 
